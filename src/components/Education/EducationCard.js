@@ -4,8 +4,9 @@ import Fade from 'react-reveal/Fade';
 
 import { ThemeContext } from '../../contexts/ThemeContext';
 
-import eduImgWhite from '../../assets/svg/education/eduImgWhite.svg'
-import eduImgBlack from '../../assets/svg/education/eduImgBlack.svg'
+import eduImgWhite from '../../assets/svg/education/ignou_img.png'
+import eduImgBlack from '../../assets/svg/education/iics_img.png'
+// import eduImgBlack from '../../assets/svg/education/eduImgBlack.svg'
 import './Education.css'
 
 function EducationCard({ id, institution, course, startYear, endYear }) {
@@ -27,7 +28,9 @@ function EducationCard({ id, institution, course, startYear, endYear }) {
         <Fade bottom>
             <div key={id} className={`education-card ${classes.educationCard}`} >
                 <div className="educard-img" style={{backgroundColor: theme.primary}}>
-                    <img src={theme.type === 'light' ? eduImgBlack : eduImgWhite} alt="" />
+                    {/* <img src={theme.type === 'light' ? eduImgWhite : eduImgWhite} alt="" /> */}
+                    <img src="https://raw.githubusercontent.com/CoderAnnu/portfolio/master/src/assets/svg/education/iics_img.png" alt="" />
+                    
                 </div>
                 <div className="education-details">
                     <h6 style={{color: theme.primary}}>{startYear}-{endYear}</h6>

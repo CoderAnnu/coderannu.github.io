@@ -1,14 +1,19 @@
 export const socialsData = {
-    github: 'https://github.com/',
+    github: 'https://github.com/CoderAnnu',
+    linkedIn: 'https://www.linkedin.com/in/anand-rajput012/',
+    codepen: 'https://codepen.io/coderAnnu',
+    stackOverflow: 'https://stackoverflow.com/users/19826921/coderannu',
+    
+    codesandbox:'https://codesandbox.io/u/CoderAnnu',
+    buymeacoffee:'https://www.buymeacoffee.com/coderannu',
+    leetcode:'https://leetcode.com/CoderAnnu/',
+    CssBattle:'https://cssbattle.dev/player/coderannu',
+    
     facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/in',
     instagram: 'https://www.instagram.com/',
-    codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/',
     reddit: 'https://www.reddit.com/user/',
     blogger: 'https://www.blogger.com/',
-    medium: 'https://medium.com/@',
-    stackOverflow: 'https://stackoverflow.com/users/',
     gitlab: 'https://gitlab.com/',
     youtube: 'https://youtube.com/'
 }
