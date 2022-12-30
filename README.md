@@ -143,7 +143,7 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/coderannu/developer-portfolio.git
 cd developer-portfolio
 ```
 ### Install packages from the root directory
@@ -492,19 +492,3 @@ export const educationData = [
 - Add another section
 
 
-
-
-
-<br />
-
-# Contributors :man_technologist::woman_technologist:
-
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-            <td align="center"><a href="https://github.com/ShimilSAbraham"><img src="https://raw.githubusercontent.com/ShimilSAbraham/Blender_Works/main/profile_shimil.jpeg" width="135px;" height="135px; alt=""/><br /><b>Shimil S Abraham</b></a></td>
-            <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
-        </tr>
-    </table>
-</div>

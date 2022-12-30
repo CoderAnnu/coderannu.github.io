@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'IGNOU University, Delhi',
+        course: 'Bachelor of Computer Applicaition',
+        startYear: 'july, 2016',
+        endYear: 'Dec, 2019'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Indian Institue of Computer Science, Delhi',
+        course: 'Advance Diploma in Computer Engineering',
+        startYear: 'March, 2016',
+        endYear: 'Dec, 2018'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'Indian Institue of Computer Science, Delhi',
+        course: 'Web Development',
+        startYear: 'Sept, 2017',
+        endYear: 'march, 2018'
     },
 ]
