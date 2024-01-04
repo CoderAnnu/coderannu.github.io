@@ -1,5 +1,6 @@
 {
-  "name": "developer-portfolio",
+  "name": "coderannu-portfolio",
+  "homepage": "https://coderannu.github.io/coderannu.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
